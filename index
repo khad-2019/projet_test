@@ -3,6 +3,6 @@
 <body>
 
 <h1>Titre 1 : </h1>
-<p>paragraphe</p>
+<p style="color:red">paragraphe</p>
 </body>
 </html>
